@@ -1,0 +1,6 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="150" cy="150" r="150" fill="#e0e0e0"/>
+  <circle cx="150" cy="120" r="50" fill="#ccc"/>
+  <rect x="125" y="180" width="50" height="70" fill="#ccc"/>
+  <text x="150" y="280" text-anchor="middle" font-family="Arial" font-size="16" fill="#666">Photo Placeholder</text>
+</svg>
